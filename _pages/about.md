@@ -32,5 +32,3 @@ I am a 4th year Economics PhD candidate at University of Pittsburgh. I am curren
 My research interests are broadly in labor economics and political economy. I study these topics in historical settings using archival microdata and modern causal methods. I work in these areas to extract lessons from the past that inform us about our present. 
 
 I am currently most interested in the intersection of politics and culture, with ongoing research on the use of film in political campaigns during the New Deal Era and occupational sorting as a result of US immigration policy from the late 19th century to mid 20th century.
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
