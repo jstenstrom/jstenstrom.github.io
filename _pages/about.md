@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.econ.pitt.edu/people/jacob-stenstrom'>PhD Candidate</a>, 4th year, University of Pittsburgh. Email: <a href='mailto:jps220@pitt.edu'>jps220@pitt.edu</a>.
+subtitle: <a href='https://www.econ.pitt.edu/people/jacob-stenstrom'>PhD Candidate</a>, 4th year, University of Pittsburgh. Email <a href='mailto:jps220@pitt.edu'>jps220@pitt.edu</a>.
 
 profile:
   align: right
