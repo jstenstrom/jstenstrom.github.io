@@ -66,22 +66,22 @@ cv:
       - company: University of Pittsburgh
         position: Teaching Assitant, Introductory Microeconomics
         location: Pittsburgh, PA
-        date: Fall 2025
+        #date: Fall 2025
 
       - company: University of Pittsburgh
         position: Teaching Assitant, Introductory Macroeconomics
         location: Pittsburgh, PA
-        date: Fall 2024
+        #date: Fall 2024
 
         - company: University of Pittsburgh
         position: Grader, Introductory Microeconomics
         location: Pittsburgh, PA
-        date: Fall 2025
+        #date: Fall 2025
 
       - company: Boston University
         position: Teaching Assistant, Intermediate Macroeconomics
         location: Boston, MA
-        date: Fall 2022
+        #date: Fall 2022
 
     Volunteer:
       - company: People's Climate March
