@@ -37,6 +37,7 @@ cv:
 
       - institution: Boston Univesrity
         location: Boston, MA, USA
+        url: https://www.bu.edu/econ/
         area: Economic Policy
         studyType: MA
         start_date: 2021
@@ -47,6 +48,7 @@ cv:
 
       - institution: Rochester Institute of Technology
         location: Rochester, NY, USA
+        url: https://www.rit.edu/liberalarts/department-economics
         area: Economics
         studyType: BS
         start_date: 2015
