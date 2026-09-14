@@ -35,25 +35,25 @@ cv:
         highlights:
           Economic History - Political Economy - Labor Economics
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Boston Univesrity
+        location: Boston, MA, USA
+        area: Economic Policy
+        studyType: MA
+        start_date: 2021
+        end_date: 2022
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Rochester Institute of Technology
+        location: Rochester, NY, USA
+        area: Economics
+        studyType: BS
+        start_date: 2015
+        end_date: 2018
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
