@@ -94,7 +94,18 @@ cv:
         location: Zurich, Switzerland
         start_date: 1909
         end_date: 1911
-
+    
+    Teaching Experience:
+      - company: University of Pittsburgh
+        position: Main Instructor
+        location: Pittsburgh, PA
+        start_date: 2026
+        end_date: 2026
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
+        
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
