@@ -29,14 +29,13 @@ cv:
         area: Economics
         studyType: PhD
         start_date: 2023
-        end_date: Present
+        end_date: exp. 2029
         #score: ""
         #courses: "Theory of Relativity"
         highlights:
           - Economic History
           - Political Economy
           - Labor Economics
-          - Expected Grad. May 2029
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
