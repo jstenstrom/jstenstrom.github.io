@@ -58,15 +58,15 @@ cv:
         #  - Description 2.
 
     Experience:
-      - company: Test
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: University of Pittsburgh
+        position: Main Instructor
+        location: Pittsburgh, PA
+        start_date: 2026
+        end_date: 2026
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
 
       - company: California Institute of Technology
         position: Visiting Professor
