@@ -58,30 +58,42 @@ cv:
         #  - Description 2.
 
     Experience:
-      - company: University of Pittsburgh
-        position: Main Instructor, Introduction to Macroeconomic Theory
-        location: Pittsburgh, PA
-        #date: Summer 2026
+      - company: Test
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
 
-      - company: University of Pittsburgh
-        position: Teaching Assitant, Introductory Microeconomics
-        location: Pittsburgh, PA
-        #date: Fall 2025
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
 
-      - company: University of Pittsburgh
-        position: Teaching Assitant, Introductory Macroeconomics
-        location: Pittsburgh, PA
-        #date: Fall 2024
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
 
-        - company: University of Pittsburgh
-        position: Grader, Introductory Microeconomics
-        location: Pittsburgh, PA
-        #date: Fall 2025
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
 
-      - company: Boston University
-        position: Teaching Assistant, Intermediate Macroeconomics
-        location: Boston, MA
-        #date: Fall 2022
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
