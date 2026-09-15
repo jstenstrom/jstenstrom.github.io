@@ -75,11 +75,12 @@ cv:
           - Introductory Microeconomics [Fall 2025]
           - Introductory Macroeconomics [Fall 2024]
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Boston University
+        position: Teaching Assistant
+        location: Boston, MA
+        date: 2022
+        highlights:
+          - Intermediate Macroeconomics [Fall 2022]
 
       - company: Karl-Ferdinand University
         position: Professor of Theoretical Physics
