@@ -128,10 +128,10 @@ cv:
       - name: Japanese
         summary: "Beginner"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    #Interests:
+    #  - name: Physics
+    #    icon: fa-solid fa-tag
+    #    keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
       - name: Machine Learning
