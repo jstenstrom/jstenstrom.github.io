@@ -58,38 +58,29 @@ cv:
         #  - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: Center for Regional Economic Competitiveness
+        position: Research Analyst
+        location: Pittsburgh, PA
+        start_date: Jan. 2026
+        end_date: Aug. 2026
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Center for Regional Economic Competitiveness
+        position: Consultant
+        location: Pittsburgh, PA
+        start_date: 2021
+        end_date: 2022
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Center for Regional Economic Competitiveness
+        position: Research Assistant
+        location: Pittsburgh, PA
+        start_date: 2019
+        end_date: 2021
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
+      - company: IRS: Criminal Investigation
+        position: Student Volunteer
         location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+        start_date: 2018
+        end_date: 2018
 
     Awards:
       - title: Nobel Prize in Physics
