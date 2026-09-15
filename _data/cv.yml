@@ -39,7 +39,7 @@ cv:
         location: Boston, MA, USA
         url: https://www.bu.edu/econ/
         area: Economic Policy
-        studyType: MA
+        studyType: Master of Arts
         start_date: 2021
         end_date: 2022
         #highlights:
@@ -50,7 +50,7 @@ cv:
         location: Rochester, NY, USA
         url: https://www.rit.edu/liberalarts/department-economics
         area: Economics
-        studyType: BS
+        studyType: Bachelor of Science
         start_date: 2015
         end_date: 2018
         #highlights:
