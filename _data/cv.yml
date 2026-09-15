@@ -133,21 +133,21 @@ cv:
     #    icon: fa-solid fa-tag
     #    keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    #Certificates:
+    #  - name: Machine Learning
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #  - name: Quantum Computing
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #  - name: Quantum Information
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
