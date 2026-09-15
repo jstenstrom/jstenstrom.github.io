@@ -56,8 +56,37 @@ cv:
         #highlights:
         #  - Description 1.
         #  - Description 2.
+
+    Experience:
+      - company: Center for Regional Economic Competitiveness
+        position: Research Analyst
+        location: Pittsburgh, PA
+        start_date: Jan. 2026
+        end_date: Aug. 2026
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
+
+      - company: Center for Regional Economic Competitiveness
+        position: Consultant
+        location: Pittsburgh, PA
+        start_date: 2021
+        end_date: 2022
+
+      - company: Center for Regional Economic Competitiveness
+        position: Research Assistant
+        location: Pittsburgh, PA
+        start_date: 2019
+        end_date: 2021
+
+      - company: IRS: Criminal Investigation
+        position: Student Volunteer
+        location: Prague, Czechoslovakia
+        start_date: 2018
+        end_date: 2018
         
-    Volunteer:
+    Teaching Experience:
       - company: People's Climate March
         position: Lead Organizer
         location: Zurich, Switzerland
