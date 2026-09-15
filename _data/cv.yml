@@ -82,11 +82,15 @@ cv:
         highlights:
           - Intermediate Macroeconomics [Fall 2022]
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Center for Regional Economic Competitiveness
+        position: Researcher
+        location: Arlington, VA
+        start_date: 2019
+        end_date: 2023
+        highlights:
+          - Research Analyst [2023]
+          - Consultant [2021-2022]
+          - Research Assistant [2019-2021]
 
       - company: University of Zurich
         position: Associate Professor of Theoretical Physics
